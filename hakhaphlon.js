@@ -38,7 +38,7 @@ window.addEventListener('DOMContentLoaded', event => {
     });
 
 });
-// Form js
+
 function calculateTotal() {
     let serviceSelect = document.getElementById('serviceSelect');
     let price = serviceSelect.options[serviceSelect.selectedIndex].value;
