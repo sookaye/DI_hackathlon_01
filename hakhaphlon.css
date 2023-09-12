@@ -11295,3 +11295,7 @@ select, input {
 .d-sm-none {
   display: none !important;
 }
+
+.bg {
+  background-image: url(images/parallax/shutterstock_1415029031.jpg);
+}
